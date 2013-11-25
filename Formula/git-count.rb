@@ -3,8 +3,8 @@ require 'formula'
 class GitCount < Formula
 
   homepage 'https://github.com/neethouse/git-count'
-  url 'https://github.com/neethouse/git-count/archive/1.1.0.tar.gz'
-  sha1 '0a6581a2dc5ea1f04f3937d0ba5b71a8c4335be7'
+  url 'https://github.com/neethouse/git-count/archive/1.2.0.tar.gz'
+  sha1 '9ce8d0dc02f31af6be5344821e01384ec33b1318'
 
   def install
     bin.install 'git-count'
